@@ -1,0 +1,31 @@
+p{
+color:aqua;
+font-size:large;
+font-family: "Shojumaru", system-ui;
+font-weight: 400;
+font-style: normal;
+}
+div{
+max-width: 400px;
+margin: auto;
+}
+body{
+color:blue;
+background-color:black;
+}
+img{
+width: 600px;
+border:10px;
+}
+
+#tekst1{
+    color:rgba(9, 243, 165, 0.623);
+}
+#naglowek{
+    color:blue;
+}
+.shojumaru-regular {
+    font-family: "Shojumaru", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
