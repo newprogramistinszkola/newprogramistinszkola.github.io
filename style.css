@@ -10,7 +10,6 @@ max-width: 800px;
 margin: auto;
 }
 body{
-color:blue;
 background-color:black;
 }
 img{
@@ -28,4 +27,5 @@ border:10px;
     font-family: "Shojumaru", system-ui;
     font-weight: 400;
     font-style: normal;
+
 }
